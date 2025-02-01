@@ -13,7 +13,7 @@ if len(tools) == 0:
 lan = "jpn"
 
 # ###抽出したいファイル名を指定####
-f_name = "達人に学ぶDB設計徹底指南指南書"
+f_name = "サンプルブック"
 
 # パスを設定
 pdf_path = Path(f"./input/{f_name}.pdf")
